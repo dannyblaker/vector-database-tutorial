@@ -8,6 +8,7 @@ A comprehensive, hands-on tutorial that takes you from zero to advanced understa
 
 ```bash
 # Clone and navigate to the repository
+cd cloned_repo
 
 # Run with Docker Compose - specific module (recommended)
 MODULE=1 docker compose up      # Module 1: Vector Basics
@@ -98,7 +99,7 @@ Zero Knowledge → Beginner → Intermediate → Advanced
 ## 📁 Project Structure
 
 ```
-actu_vector/
+repo/
 ├── main.py                           # Main tutorial runner
 ├── module1_vectors_basics.py         # Module 1: Vector fundamentals
 ├── module2_text_embeddings.py        # Module 2: Text embeddings
