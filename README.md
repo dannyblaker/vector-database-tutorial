@@ -7,8 +7,7 @@ A comprehensive, hands-on tutorial that takes you from zero to advanced understa
 ## 🚀 Quick Start
 
 ```bash
-# Clone or navigate to the repository
-cd actu_vector
+# Clone and navigate to the repository
 
 # Run with Docker Compose - specific module (recommended)
 MODULE=1 docker compose up      # Module 1: Vector Basics
