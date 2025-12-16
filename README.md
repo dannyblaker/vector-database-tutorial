@@ -1,4 +1,4 @@
-# Vector Database Tutorial 🎓
+# Vector Database Tutorial
 
 A comprehensive, hands-on tutorial that takes you from zero to advanced understanding of vectors, embeddings, vector databases, and Retrieval Augmented Generation (RAG) patterns for NLP and LLM applications.
 
