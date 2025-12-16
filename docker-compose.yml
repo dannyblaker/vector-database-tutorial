@@ -1,0 +1,13 @@
+services:
+  vector-tutorial:
+    build: .
+    container_name: vector_tutorial
+    volumes:
+      - ./example_corpus:/app/example_corpus:ro
+      - ./chroma_db:/app/chroma_db
+      - ./outputs:/app/outputs
+    environment:
+      - PYTHONUNBUFFERED=1
+      - MODULE=${MODULE:-}
+    stdin_open: true
+    tty: true

@@ -1,0 +1,56 @@
+Full job description
+Software Developer (C#/.NET/ Blazor/Latest Tools) TV/Media industry
+
+We are Mediaproxy, a leading company in broadcast TV technology, and we are looking for a talented software developer with the motivation to be part of a team of specialist developers and be able to practice the paradigms of software craftsmanship and keep learning with us.
+
+Are you a passionate software developer, who loves technology and learning on and off the clock while enjoying a life beyond code?
+
+If so, then Mediaproxy has an amazing opportunity for you!
+
+Our software team is in charge of designing, building, and maintaining multiple software applications that assist broadcasters and television stations around the world to monitor and analyze live broadcasts and OTT.
+
+We’ve established a friendly and collaborative development environment where all contributions are valued and rewarded. Innovation and creativity are of paramount importance in order to take our platforms to the next level. If you want to help refine technologies and processes in a constructive and collaborative environment, this is the place for you!
+
+What You'll Do:
+
+Help design and build new platforms that will help achieve Mediaproxy’s vision.
+Work closely with the CTO and business stakeholders, who are also engineers in a team-oriented environment.
+Collaborate and participate in pair-programming.
+Work on integrations with third-party vendors.
+Implement software development best practices, focusing on relevant design patterns and SOLID principles.
+Work with cutting edge platforms (Latest Tools C#/.NET Core/ASP.NET Core/Blazor/).
+Minimum Experience & Qualifications:
+
+Position-appropriate experience in software development across the applications stack.
+Experience with test-driven development, unit testing, integration testing and keeping all of the lights green.
+Excellent communication and collaboration skills.
+Familiarity with Agile methodologies
+Experience with video or audio broadcast application is an advantage, but not essential.
+What we offer:
+
+Working with the latest tools and platforms.
+Permanent position with competitive compensation.
+Mentoring to constantly improve your skills.
+Fun and relaxed work environment.
+The successful applicant will provide a cover letter outlining the motivation to apply for this position detailing their relevant experience with respect to the key selection criteria.
+
+Location: Candidates are required to work at our office in Melbourne, Australia, South Eastern Suburbs
+
+mediaproxy.com
+
+Job Types: Full-time, Permanent
+
+Job Type: Full-time
+
+Benefits:
+
+Employee mentoring program
+Professional development assistance
+Visa sponsorship
+Schedule:
+
+Monday to Friday
+Experience:
+
+software development: 3 years (Preferred)
+Work Location: In person

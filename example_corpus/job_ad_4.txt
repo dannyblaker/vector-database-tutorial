@@ -1,0 +1,34 @@
+Full job description
+Analyst Programmer:
+
+We are looking for an experienced Solution Designer / Analyst Programmer to join our team and drive the design and delivery of enterprise-scale API integrations and applications that power mission-critical systems.
+
+This is a high-impact role where you will blend analytical thinking, solution architecture, and hands-on programming to build robust, secure, and scalable integration solutions.
+
+What You’ll Do
+
+Analyse user and business requirements to produce detailed technical specifications and solution blueprints.
+Design and architect API integrations ensuring seamless communication between enterprise systems and applications.
+Identify and apply the most suitable integration patterns while ensuring scalability, reliability, functionality, and security.
+Participate in technical design and architecture forums to present and finalise solution options.
+Write, maintain, test, debug, and optimise program code to deliver high-quality software that meets system and business requirements.
+Create and maintain comprehensive documentation including design documents, Swagger specifications, component diagrams, and operational procedures.
+Collaborate closely with stakeholders to identify integration opportunities and ensure solutions meet business objectives.
+Estimate project effort and cost for proposed solutions and enhancements.
+What We’re Looking For
+
+Strong experience in solution design and API-based integration development in enterprise environments.
+Solid background in software and applications programming, including analysis, design, coding, testing, and maintenance.
+Proficiency in API design principles, integration patterns, and lifecycle management.
+Excellent communication and stakeholder engagement skills, with the ability to translate business needs into technical designs.
+Strong understanding of system architecture, data modelling, security, and scalability best practices.
+Relevant tertiary qualification in Computer Science / IT or equivalent experience
+Job Type: Full-time
+
+Work Authorisation:
+
+Australia (Required)
+Location:
+
+Melbourne VIC 3000 (Required)
+Work Location: In person

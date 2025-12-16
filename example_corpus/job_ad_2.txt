@@ -1,0 +1,47 @@
+Full job description
+About the Company
+
+Green-Tech Super cooling system is a sustainability-focused digital business delivering environmental technology solutions and educational content to a global audience. We empower communities and industries to adopt greener practices through innovative digital platforms. As we expand our technical team, we are seeking a full-time Web Developer to help grow our online presence and enhance our digital solutions.
+
+Key Responsibilities
+
+Develop, maintain, and optimise Green-Tech websites and digital platforms.
+Build secure, responsive, and multilingual web interfaces, with a focus on Vietnamese-speaking audiences.
+Implement booking systems, dashboards, and customer engagement tools tailored to blend the company’s professional skills and cultural sensitivity.
+Integrate APIs, CRM systems, and cloud services to support international partners and sustainability projects.
+Monitor website performance, resolve bugs, and ensure seamless mobile responsiveness for global users.
+Collaborate with content, design, and operations teams to deliver engaging sustainability and cultural updates.
+Ensure compliance with web security, accessibility, and SEO best practices.
+Maintain documentation, version control, and CI/CD workflows.
+Essential Skills & Qualifications
+
+Bachelor’s degree in Computer Science, Software Engineering, IT, or equivalent practical experience.
+Proficiency in HTML5, CSS3, JavaScript, and modern frameworks (React, Next.js, Vue, Angular).
+Experience with back-end development (Node.js, PHP, Python, or similar).
+Strong knowledge of databases (MySQL, PostgreSQL, MongoDB) and API integrations.
+Experience with version control (Git) and continuous deployment workflows.
+Understanding of responsive design, cross-browser compatibility, and web security practices.
+Strong problem-solving ability and attention to detail.
+Excellent communication skills and ability to work independently.
+Fluent in Vietnamese and English to support cross-border tourism and sustainability projects.
+Preferred
+
+Experience with WordPress or Headless CMS.
+UI/UX design awareness or SEO optimisation experience.
+Background in developing booking systems, dashboards, or customer-facing platforms in the tourism industry.
+What We Offer
+
+Competitive salary package aligned with skills and experience.
+Opportunity to contribute to sustainability-focused innovation in the global tourism sector.
+Supportive, collaborative workplace with room for growth.
+A chance to make a real impact by connecting tourism with environmental responsibility.
+How to Apply
+
+Please send your resume, cover letter, and portfolio links via prompts.
+Applications will be assessed as they are received.
+
+Job Type: Full-time
+
+Pay: $80,000.00 – $90,000.00 per year
+
+Work Location: In person

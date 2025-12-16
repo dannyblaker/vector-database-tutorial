@@ -1,0 +1,75 @@
+Full job description
+LTIMindtree is a global technology consulting and digital solutions company that enables enterprises across industries to reimagine business models, accelerate innovation, and maximize growth by harnessing digital technologies. As a digital transformation partner to more than 750 clients, LTIMindtree brings extensive domain and technology expertise to help drive superior competitive differentiation, customer experiences, and business outcomes in a converging world. For more information, please visit www.ltimindtree.com
+
+Job summary
+
+Ongoing transformation services requires a Developer for Developing web applications in strategic Digital Transformation programs for customers. perform design tasks and develop components of application and technical architecture and thorough understanding of the software Development life cycle, ability to write well-structured, easy to maintain code.
+
+About the role
+
+Convert requirements into architectures and solution designs that make up the blueprint for a solution for projects that do not require involvement from a solution architect
+
+Ensure alignment and provide traceability of lower level design to technical solution architecture
+
+Apply expert knowledge of systems to inform Architecture and Solution Design
+
+Lead the analysis of user stories and relevant documents to determine testing requirements and automation potential to deliver logical & efficient automation solutions
+
+Write, Maintain and test code to meet System requirement, system design and specification to maintain quality standards
+
+Skills and experience
+
+Experience in Reactjs, Node js, Redux, ES6, Debugging skills, Java Script, Express JS, Jest
+
+Experience in Core and Enterprise Java.
+
+Experience with Spring and Spring Boot
+
+Hands on experience in developing Rest APIs using Spring Boot
+
+Strong understanding of Object-Oriented Programming
+
+Experience on API development.
+
+Experience with SDLC tools (e.g. Bamboo, JIRA, GIT, Confluence, Bitbucket, Splunk)
+
+Understanding of Swagger
+
+Advanced analysis, problem solving and troubleshooting and consultative skills
+
+Strong knowledge on Software development process life cycle especially Agile methodology.
+
+Excellent verbal and written communication skills
+
+Being a Team player is a must as we work together and support each other to deliver amazing results.
+
+A passionate programmer, ready to think and solve innovatively.
+
+A curious mind to learn new things.
+
+A can-do attitude.
+
+LTIMindtree Minds Enjoy -
+
+Family Friendly and Flexible working arrangements - work here there or anywhere >
+Working on innovative project transformation works >
+Personal development to enhance your career >
+Rewarding curiosity and collaboration >
+LTIMindtree minds are distinguished by their superior talent and mental agility marked by extreme ownership of transformative technologies in the digital age.
+
+BIO - https://vimeo.com/770620919
+
+Job Type: Full-time
+
+Benefits:
+
+Referral program
+Schedule:
+
+8 hour shift
+Experience:
+
+Java: 5 years (Required)
+Work Authorisation:
+
+Australia (Required)

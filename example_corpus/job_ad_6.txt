@@ -1,0 +1,63 @@
+Full job description
+About MyConnect
+
+MyConnect helps Australians moving house get their utilities connected – fast, easily, and reliably. We’re growing quickly, and we’re looking for a Developer Programmer (with a strong DevOps focus) to help us scale our cloud infrastructure, accelerate our deployments, and strengthen the resilience and efficiency of our systems.
+
+This is a hands-on role where you’ll contribute across programming, automation, and cloud engineering, shaping how we design, build, deploy, and operate everything we deliver.
+
+Key Responsibilities
+
+Analyse user needs, translate requirements into technical specifications, and design, develop, and maintain program code for applications and systems.
+Build, test, debug, and document software applications to ensure they perform to specification and meet business and technical requirements.
+Design and maintain secure, reliable AWS infrastructure using Infrastructure-as-Code (CloudFormation, ECS, RDS, S3, IAM, etc.).
+Develop and maintain CI/CD pipelines using Bitbucket Pipelines and AWS CodePipeline, enabling fast and reliable software delivery.
+Automate deployment, provisioning, scaling, monitoring, and backup tasks to improve efficiency and reduce operational overhead.
+Identify deficiencies in existing applications, systems, and processes, and recommend improvements or upgrades.
+Collaborate with engineers on architecture migration from monolith to microservices, deployment strategies, monitoring, and incident response.
+Write and maintain technical documentation, end-user guides, and operational procedures to support software and infrastructure.
+Monitor system and application performance using CloudWatch and related tools, diagnosing and resolving errors, bottlenecks, and faults.
+Contribute to security, compliance, and audit readiness by applying best practices (ISO 27001 exposure desirable).
+Participate in full-stack development where needed:
+Frontend: Next.js, React, Blazor.
+Backend/API: Node.js, TypeScript, C#/.NET Core.
+Required Skills & Experience
+
+Bachelor’s degree in Computer Science, Software Engineering, or related field (or equivalent experience).
+3+ years’ experience in software development with exposure to DevOps or cloud engineering.
+Strong programming ability across multiple languages (Node.js, TypeScript, C#/.NET Core, Python, Bash).
+Proficiency in AWS services and infrastructure-as-code (CloudFormation).
+Hands-on experience with CI/CD pipelines and containerised deployment workflows.
+Strong debugging, diagnostic, and problem-solving skills.
+Familiarity with frontend frameworks and backend API development.
+Nice to Have
+
+Experience with AWS Fargate, Lambda, or serverless tooling.
+Exposure to Datadog or similar observability stacks.
+Familiarity with ISO 27001 or equivalent compliance frameworks.
+Experience in growth-stage or scaling environments.
+Why Join Us
+
+Work with a friendly, capable team that values speed, simplicity, and ownership.
+Be part of a company investing heavily in digital transformation.
+Flexible hybrid work environment with autonomy and clear priorities.
+Competitive salary, performance bonus, and career growth opportunities.
+Job Type: Full-time
+
+Pay: $100,000.00 – $130,000.00 per year
+
+Benefits:
+
+Salary packaging
+Ability to commute/relocate:
+
+Melbourne VIC 3000: Reliably commute or planning to relocate before starting work (Required)
+Education:
+
+Bachelor Degree (Preferred)
+Experience:
+
+Software development: 5 years (Preferred)
+Work Authorisation:
+
+Australia (Preferred)
+Work Location: In person
