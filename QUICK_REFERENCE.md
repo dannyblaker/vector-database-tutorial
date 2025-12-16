@@ -2,7 +2,7 @@
 
 ## Project Structure
 ```
-repo/
+cloned_repo/
 ├── main.py                          # Main tutorial runner (start here)
 ├── module1_vectors_basics.py        # Vectors fundamentals
 ├── module2_text_embeddings.py       # Text to vectors

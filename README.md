@@ -99,7 +99,7 @@ Zero Knowledge → Beginner → Intermediate → Advanced
 ## 📁 Project Structure
 
 ```
-repo/
+cloned_repo/
 ├── main.py                           # Main tutorial runner
 ├── module1_vectors_basics.py         # Module 1: Vector fundamentals
 ├── module2_text_embeddings.py        # Module 2: Text embeddings
