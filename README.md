@@ -231,7 +231,6 @@ The tutorial generates visualizations and outputs in the `outputs/` directory:
 
 - [ChromaDB Documentation](https://docs.trychroma.com/)
 - [Sentence Transformers](https://www.sbert.net/)
-- [Vector Search Theory](https://www.pinecone.io/learn/vector-search/)
 - [RAG Papers and Research](https://arxiv.org/abs/2005.11401)
 
 ## 🤝 Contributing
